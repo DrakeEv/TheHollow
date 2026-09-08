@@ -1,5 +1,7 @@
 # The Hollow
 
+![The Hollow title screen](screenshot.jpg)
+
 A moody, first-person 3D exploration experience built entirely in a single HTML
 file with [Three.js](https://threejs.org/). You wake at the edge of a
 bioluminescent forest and explore on foot, searching for eight glowing memory
@@ -38,6 +40,9 @@ npx serve .
 
 Then open the printed local URL, click to enter, and use **WASD** to move,
 **mouse** to look, and **Esc** to pause.
+
+> **Note:** requires a desktop browser — pointer-lock mouse look and WASD
+> movement don't work on touch devices.
 
 ## Live Demo
 
